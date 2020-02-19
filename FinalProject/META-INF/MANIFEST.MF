@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Created-By: 1.8.0_74 (Oracle Corporation)
+Main-Class: edu.ucsd.javaiv.finalproject.knockknock.KnockKnockApplicat
+ ion
+
